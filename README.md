@@ -8,7 +8,5 @@
 5 - piątek,
 6 - sobota,
 7 - niedziela,
-
 <br>
-
 oraz godzinę w postaci liczby: 1, 2, 3, ... 22, 23
