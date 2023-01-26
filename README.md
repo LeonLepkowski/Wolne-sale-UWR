@@ -11,4 +11,4 @@
 
 <br>
 
-oraz godzinę w postaci liczby od 1, 2, 3, ... 22, 23
+oraz godzinę w postaci liczby: 1, 2, 3, ... 22, 23
