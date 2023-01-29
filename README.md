@@ -1,4 +1,4 @@
-## Wolne-sale-UWR
+# Obsługa programu
 
 ## Podaj dzień w postaci:
 1 - poniedzałek,
