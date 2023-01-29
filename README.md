@@ -1,6 +1,6 @@
 ## Wolne-sale-UWR
 
-# Podaj dzień w postaci:
+## Podaj dzień w postaci:
 1 - poniedzałek,
 2 - wtorek,
 3 - środa,
@@ -9,4 +9,9 @@
 6 - sobota,
 7 - niedziela,
 <br>
-oraz godzinę w postaci liczby: 1, 2, 3, ... 22, 23
+## oraz godzinę w postaci liczby:
+1 - 1:00
+2 - 2:00
+3 - 3:00
+...
+23 - 23:00
